@@ -2,7 +2,7 @@
 
 # 
 
-**Live Demo:** \[Insert your Vercel/Netlify Link Here\]
+**Live Demo:** https://gemini.google.com/share/747f22717fcf
 
 **CryptoGlitch** is a "Data-Heavy" dashboard built for the Vibe Coding Assignment. It combines real-time cryptocurrency data with a cynical AI personality ("Glitch") that analyzes market sentiment on demand.
 
@@ -104,8 +104,8 @@ This prompt established the core logic and aesthetic in one go:
 1.  **Clone the repo:**
     
     ```
-    git clone [https://github.com/yourusername/cryptoglitch.git](https://github.com/yourusername/cryptoglitch.git)
-    cd cryptoglitch
+    git clone [https://github.com/abdaahads/CryotoGlitch-App](https://github.com/abdaahads/CryotoGlitch-App)
+    cd CryptoGlitch
     ```
     
 2.  **Install dependencies:**
